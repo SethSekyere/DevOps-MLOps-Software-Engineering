@@ -4,7 +4,7 @@
 
 ## **👋 Hi, I'm Seth Sekyere**  
 
-I'm a **DevOps, MLOps, and Software Engineer**. I also have a background in **Aerospace and Mechanical Engineering**. I specialize in **automation, scalability, and optimization**, bridging the gap between development, deployment, and machine learning operations.  
+I'm a **DevOps, MLOps, and Software Engineer**. I also have diverse training and experience in **Aerospace and Mechanical Engineering**. I specialize in **automation, scalability, and optimization**, bridging the gap between development, deployment, and machine learning operations.  
 
 ## **🔧 Technologies & Tools**  
 
