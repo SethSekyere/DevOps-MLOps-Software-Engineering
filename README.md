@@ -33,7 +33,7 @@ I'm a **DevOps, MLOps, and Software Engineer**. I also have a background in **Ae
 ---
 
 ## **📫 Connect With Me**  
-📍 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/seth-sekyere-54706119b/)   
+📍 **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/seth-sekyere-54706119b/)   
 📍 **Email**: sekyere122@gmail.com  
 
 💡 *"Automate Everything. Deploy Anywhere. Scale Infinitely."*  
