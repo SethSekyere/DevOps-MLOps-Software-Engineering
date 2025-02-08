@@ -9,8 +9,9 @@ Ensure you run "chmod +x terraform_deploy.sh"
 
 
 
-
+--------------------------
 Troubleshooting
+------------------
 Website loads without images?
 Verify correct file permissions (chmod -R 755 /var/www/html/).
 Check Apache ownership (chown -R apache:apache /var/www/html/).
