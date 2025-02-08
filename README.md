@@ -1,6 +1,6 @@
 
 
-# **DevOps | MLOps | Software Engineering | AI | Machine Learning ** 🚀  
+# **DevOps | MLOps | Software Engineering | AI | Machine Learning** 🚀  
 
 ## **👋 Hi, I'm Seth Sekyere**  
 
