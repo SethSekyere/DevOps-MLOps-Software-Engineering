@@ -2,6 +2,8 @@
 DevOps , MLOps &amp; Software Engineering
 
 👋 Hi, I'm Seth Sekyere
+
+
 🚀 DevOps | MLOps | Software Engineer
 
 Welcome to my GitHub! I'm a passionate engineer with expertise in DevOps, MLOps, and Software Engineering, bridging the gap between development, deployment, and automation.
