@@ -9,3 +9,23 @@ Ensure you run "chmod +x terraform_deploy.sh"
 
 
 
+
+Troubleshooting
+Website loads without images?
+Verify correct file permissions (chmod -R 755 /var/www/html/).
+Check Apache ownership (chown -R apache:apache /var/www/html/).
+Restart the Apache service (systemctl restart httpd).
+
+
+SSH Connection Issues?
+Ensure the key pair is correctly referenced.
+Validate the security group allows inbound SSH traffic (port 22).
+
+
+Next Steps
+Integrate Terraform state management using S3 for remote backend.
+Implement an autoscaling group and load balancer for high availability.
+Use Terraform modules for better code modularity.
+
+
+
