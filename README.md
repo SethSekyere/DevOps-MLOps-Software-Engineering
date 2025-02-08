@@ -33,18 +33,10 @@ I'm a **DevOps, MLOps, and Software Engineer**. I also have a background in **Ae
 ---
 
 ## **📫 Connect With Me**  
-📍 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/seth-sekyere-54706119b/)  
-📍 **GitHub**: [Your GitHub](https://github.com/yourusername)  
+📍 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/seth-sekyere-54706119b/)   
 📍 **Email**: sekyere122@gmail.com  
 
 💡 *"Automate Everything. Deploy Anywhere. Scale Infinitely."*  
 
 ---
 
-### **💥 Why This Works?**  
-✅ **More structured & visually appealing** (easier to scan)  
-✅ **More engaging language** (uses action words & tech buzzwords)  
-✅ **Consistency in formatting** (pipes `|` make lists more readable)  
-✅ **Subtle personal branding** (catchy tagline at the end)  
-
-Let me know if you want any tweaks! 🚀🔥
