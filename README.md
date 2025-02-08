@@ -4,7 +4,7 @@
 
 ## **👋 Hi, I'm Seth Sekyere**  
 
-I'm a **DevOps, MLOps, and Software Engineer**. with a background in **Aerospace and Mechanical Engineering**. I specialize in **automation, scalability, and optimization**, bridging the gap between development, deployment, and machine learning operations.  
+I'm a **DevOps, MLOps, and Software Engineer**. I also have a background in **Aerospace and Mechanical Engineering**. I specialize in **automation, scalability, and optimization**, bridging the gap between development, deployment, and machine learning operations.  
 
 ## **🔧 Technologies & Tools**  
 
@@ -23,23 +23,19 @@ I'm a **DevOps, MLOps, and Software Engineer**. with a background in **Aerospace
 - **Model Monitoring & Scaling**: Seldon | BentoML | AWS SageMaker  
 
 ### 💻 **Software Engineering**  
-- **Languages**: Python | Bash | JavaScript | Go  
-- **Backend Development**: FastAPI | Flask | Django | Node.js  
+- **Languages**: Python | Bash | JavaScript |  
+- **Backend Development**: | Flask | Django | Node.js  
 - **Databases**: PostgreSQL | MySQL | MongoDB | Redis | NoSQL | Amazon RDS | Aurora  
 
 ---
-
-## **📌 Featured Projects**  
-🚀 **[Project Name](GitHub Repo Link)** – Brief description  
-🚀 **[Project Name](GitHub Repo Link)** – Brief description  
-🚀 **[Project Name](GitHub Repo Link)** – Brief description  
+  
 
 ---
 
 ## **📫 Connect With Me**  
-📍 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+📍 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/seth-sekyere-54706119b/)  
 📍 **GitHub**: [Your GitHub](https://github.com/yourusername)  
-📍 **Email**: your.email@example.com  
+📍 **Email**: sekyere122@gmail.com  
 
 💡 *"Automate Everything. Deploy Anywhere. Scale Infinitely."*  
 
