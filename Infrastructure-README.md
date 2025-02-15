@@ -10,10 +10,10 @@ This repository contains Terraform code to deploy a robust, scalable, and secure
 
 Before deploying this infrastructure, ensure you have the following:
 
-AWS Account: An active AWS account with sufficient permissions to create VPCs, EC2 instances, RDS, and other resources.
+1.) AWS Account: An active AWS account with sufficient permissions to create VPCs, EC2 instances, RDS, and other resources.
 
-Terraform Installed: Terraform CLI installed on your local machine or CI/CD environment. Download it from here.
+2.) Terraform Installed: Terraform CLI installed on your local machine or CI/CD environment. Download it from here 
 
-AWS CLI: Configured with your AWS credentials. Run aws configure to set up your credentials.
+3.) AWS CLI: Configured with your AWS credentials. Run aws configure to set up your credentials.
 
-Git: Installed for version control and cloning this repository.
+4.) Git: Installed for version control and cloning this repository.
