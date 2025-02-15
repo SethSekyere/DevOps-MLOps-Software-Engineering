@@ -36,3 +36,17 @@ Future Enhancements
 3.) Kubernetes Integration: Deploy a Kubernetes cluster (EKS) for containerized workloads.
 
 4.) MLOps Pipelines: Integrate with ML frameworks like TensorFlow Extended (TFX) or MLflow for end-to-end machine learning workflows.
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------
+**NOTE!!!!!!: Create an S3 bucket or use terraform vault for your state file. 
+DO NOT STORE STATE FILE ON YOUR PC!!!!!!!**
