@@ -1,0 +1,95 @@
+# 🚀 **Terraform AWS EC2 with Docker Installation**  
+
+This **Terraform script** provisions an AWS environment with:  
+👉 **VPC** 🏢  
+👉 **Public Subnet** 🌍  
+👉 **Internet Gateway** 🌐  
+👉 **Route Table** for internet access 📱  
+👉 **Security Group** allowing SSH (22) & HTTP (80) 🔒  
+👉 **EC2 Instance** (Ubuntu) with **Docker installed** 🐳  
+
+---
+
+## 📌 **Prerequisites**  
+
+Before using this code, ensure you have the following:  
+
+### 1️⃣ **Install Terraform** 🏠  
+- Download and install Terraform from [Terraform's official website](https://developer.hashicorp.com/terraform/downloads).  
+
+### 2️⃣ **Install & Configure AWS CLI** ☁️  
+- Install AWS CLI: [AWS CLI Installation Guide](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)  
+- Configure credentials:  
+ 
+
+### 3️⃣ **Create an SSH Key Pair** 🔑  
+- Go to **AWS Console** → **EC2** → **Key Pairs** → **Create Key Pair**  
+- Name it **`Docker`** (or update the `key_name` value in `VPC.tf`).  
+- Download the `.pem` file and store it securely.  
+
+### 4️⃣ **Modify the `private_key` Path in Terraform** 📝  
+- Update the **`private_key`** path in `main.tf` to match your `.pem` file location:  
+  ```hcl
+  private_key = file("C:/path/to/Docker.pem")  # Adjust path for your OS
+  ```
+- On **Linux/macOS**, move and update permissions:  
+  ```sh
+  mv Docker.pem ~/.ssh/
+  chmod 400 ~/.ssh/Docker.pem
+  ```
+
+---
+
+## 🚀 **How to Use**  
+
+### 🔹 **Step 1: Initialize Terraform**  
+```sh
+terraform init
+```  
+
+### 🔹 **Step 2: Validate the Configuration**  
+```sh
+terraform validate
+```  
+
+### 🔹 **Step 3: Plan the Deployment**  
+```sh
+terraform plan
+```  
+
+### 🔹 **Step 4: Apply & Deploy** ⚡  
+```sh
+terraform apply -auto-approve
+```  
+
+### 🔹 **Step 5: SSH into the EC2 Instance**  
+- Get the **Public IP** from Terraform output or AWS Console.  
+- Connect via SSH:  
+  ```sh
+  ssh -i "path/to/Docker.pem" ubuntu@<EC2_PUBLIC_IP>
+  ```  
+
+
+
+
+
+
+
+
+
+Do whatever you want
+---
+
+## 🪚 **Cleanup** (Destroy Everything)  
+To remove all resources when no longer needed:  
+```sh
+terraform destroy -auto-approve
+```  
+
+---
+
+
+
+🚡 **Now you’re ready to deploy AWS EC2 with Docker!** 🐳🚀  
+Enjoy coding! ✨💻  
+
