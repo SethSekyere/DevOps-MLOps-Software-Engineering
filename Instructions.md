@@ -28,7 +28,7 @@ docker pull nginx
 ```
 docker images
 ```
-
+-----------------------------------
 ### Create an IAM Policy:
 
 - Go to the IAM console in AWS.
@@ -36,7 +36,8 @@ docker images
 - You can use the JSON editor to input the contents of your "ecr-allow-all.json" file.
 - Review the policy and give it a meaningful name and description (e.g ECRPolicy).
 - Click "Create policy" to finalize.
-
+  
+--------------------------------------------
 ### Create an IAM Role:
 
 - In the IAM console, go to "Roles" and click "Create role".
@@ -45,7 +46,7 @@ docker images
 - Search for the policy by the name you gave it and select it.
 - Click "Next: Tags" to add any tags if needed (this step is optional).
 - Click "Next: Review", give the role a name and description (e.g ECR_Role), and create the role.
-
+------------------------------------------------------
 ### Attach the IAM Role to an EC2 Instance:
 
 - Go to the EC2 console and select the EC2 instance you want to attach the role to.
