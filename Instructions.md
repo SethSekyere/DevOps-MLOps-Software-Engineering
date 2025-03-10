@@ -1,4 +1,4 @@
- #**Create Image and Push to ECR Repository**🚀
+ # **Create Image and Push to ECR Repository**🚀
 
  ------------------------------------------------------
 🌱 Getting Started
