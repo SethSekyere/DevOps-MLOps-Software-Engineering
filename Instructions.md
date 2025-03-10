@@ -1,7 +1,7 @@
- **Create Image and Push to ECR Repository**
+ #**Create Image and Push to ECR Repository**🚀
 
  ------------------------------------------------------
-
+🌱 Getting Started
 Use the terraform codes to launch EC2 instance - Amazon Linux 2 AMI, t2.micro
 Make sure to create the key pair (container-key.pem, container-key.pem.pub) in your local directory using the command ssh-keygen
 Connect to instance from your local machine using the pem key
