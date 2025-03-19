@@ -9,22 +9,16 @@ I'm a **DevOps, MLOps, and Software Engineer**. I also have diverse training and
 ## **🔧 Technologies & Tools**  
 
 ### 🛠 **DevOps & Cloud**  
-- **CI/CD**: Jenkins | GitHub Actions | GitLab CI | ArgoCD  
+- **CI/CD**: Jenkins | ArgoCD  
 - **Containerization & Orchestration**: Docker | Kubernetes | Helm  
 - **Infrastructure as Code (IaC)**: Terraform | Ansible | CloudFormation  
 - **Cloud Platforms**: AWS | Azure | GCP  
 - **Monitoring & Logging**: Prometheus | Grafana | ELK Stack | Loki  
 
-### 🤖 **MLOps & Machine Learning**  
-- **Frameworks**: TensorFlow | PyTorch | Scikit-learn  
-- **Model Deployment**: MLflow | Kubeflow | FastAPI | Flask  
-- **Data Engineering & Pipelines**: Apache Spark | Airflow | DVC  
-- **Feature Stores**: Feast  
-- **Model Monitoring & Scaling**: Seldon | BentoML | AWS SageMaker  
+ 
 
 ### 💻 **Software Engineering**  
-- **Languages**: Python | Bash | JavaScript |  
-- **Backend Development**: | Flask | Django | Node.js  
+- **Languages**: Python | Bash |
 - **Databases**: PostgreSQL | MySQL | MongoDB | Redis | NoSQL | Amazon RDS | Aurora  
 
 ---
