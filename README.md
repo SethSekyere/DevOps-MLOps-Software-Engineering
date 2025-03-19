@@ -19,7 +19,7 @@ I'm a **DevOps, MLOps, and Software Engineer**. I also have diverse training and
 
 ### 💻 **Software Engineering**  
 - **Languages**: Python | Bash |
-- **Databases**: PostgreSQL | MySQL | MongoDB | Redis | NoSQL | Amazon RDS | Aurora  
+
 
 ---
   
