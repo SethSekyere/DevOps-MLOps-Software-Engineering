@@ -54,22 +54,4 @@ To set up Jenkins with SonarQube, Nexus, and Maven, you will need the following 
 - **Maven 3**
 - **MySQL 8**
 
-### Technologies
 
-- Spring MVC
-- Spring Security
-- Spring Data JPA
-- Maven
-- JSP
-- Tomcat
-- MySQL
-- Memcached
-- Rabbitmq
-- ElasticSearch
-
-### Database Setup
-
-Use the provided MySQL DB SQL dump file:
-
-```bash
-/src/main/resources/db_backup.sql
