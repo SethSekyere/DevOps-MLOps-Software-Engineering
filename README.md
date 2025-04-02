@@ -13,7 +13,7 @@ I'm a **DevOps, MLOps, and Software Engineer**. I also have diverse training and
 - **Containerization & Orchestration**: Docker | Kubernetes | Helm  
 - **Infrastructure as Code (IaC)**: Terraform | Ansible | CloudFormation  
 - **Cloud Platforms**: AWS | Azure | GCP  
-- **Monitoring & Logging**: Prometheus | Grafana | ELK Stack | Loki  
+- **Monitoring & Logging**: Prometheus | Grafana | CloudWatch  
 
 ### 🤖 **MLOps & Machine Learning**  
 - **Frameworks**: TensorFlow | PyTorch | Scikit-learn  
