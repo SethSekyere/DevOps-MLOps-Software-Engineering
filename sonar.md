@@ -1,7 +1,7 @@
 # SonarQube Integration Steps
 
 ### Step 1: Verify SonarQube is Running
-- Ensure SonarQube is up and running before proceeding. You can follow the instructions for setting up SonarQube from the following [repository](https://github.com/techlearn-center/DevOps/tree/Terraform/exercise7-instance-ubuntu).
+- Ensure SonarQube is up and running before proceeding.
 
 ### Step 2: Install SonarQube Plugin in Jenkins
 1. Go to **Manage Jenkins** > **Manage Plugins**.
@@ -13,11 +13,11 @@
 ### Step 3: Configure SonarQube Scanner in Jenkins
 1. Go to **Manage Jenkins** > **Global Tool Configuration (Tools)**.
 
-   ![](images/manage-jenkins.PNG)
+
 
 2. Search for **SonarQube Scanner** (use `Ctrl + F` to find it quickly).
 
-   ![image info](images/SonarScanner.PNG)
+  
 
 3. Click on **Add SonarQube Scanner** (not MSBuild).
 4. Name the scanner (e.g., `sonar6.1`).
@@ -34,7 +34,7 @@
 6. In the **SonarQube server URL** field, enter the URL of your SonarQube server.
    - Use the private IP if you're on the same network as the SonarQube server, or the public IP if not.
 
-   ![image info](images/jenkins-sonar2.PNG)
+
 
 ### Step 5: Generate and Add SonarQube Token
 1. Go to the SonarQube server and log in.
@@ -51,4 +51,4 @@
    - Provide an ID and description (e.g., `MySonarToken`).
 7. Save the configuration.
 
-   ![image info](images/sonarqube-token.PNG)
+
