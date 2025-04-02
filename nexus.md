@@ -12,9 +12,7 @@
    - After entering the URL, click **Deploy**.
 
 
- ![image info](images/nexus-jenkins-installation.PNG)
-
-![image info](images/nexus-jenkins-plugin.PNG)
+ 
 
 
 
@@ -24,10 +22,7 @@
    - Search for **Nexus** to verify that the plugin is installed successfully.
 
 
-![image info](images/nexus-systems.PNG)
 
-
-![image info](images/nexus-systems2.PNG)
 
 - Configure Nexus by adding the following:
      - **Display Name**: Same name as referenced in the `Jenkinsfile`.
@@ -35,7 +30,7 @@
      - **Server URL**: Enter the URL of your Nexus instance (e.g., `http://nexus-server:8081`).
      - **Credentials**: Use the credentials configured in **Step 3**.
 
-![image info](images/neus-jenkins-config.PNG)
+
 
 3. **Set Up Jenkins Credentials for Nexus Authentication:**
 
@@ -44,19 +39,13 @@
    - Click on **System** > **Global credentials (unrestricted)**.
    - Add a new domain, then choose **Username/Password** for the credentials and complete the required details.
 
-![image info](images/add-credential.PNG)
-
-![image info](images/add-credential2.PNG)
-
-![image info](images/add-cred3.PNG)
 
 
 4.  **Create the Repository in Nexus**:  
    Proceed to your Nexus server and create the necessary repository (e.g., Maven, NPM, or Docker).  
    - Go to **Repositories** -> **Create repository**, and select the appropriate type of repository (e.g., Maven hosted).
 
-![image info](images/nexus-interface-repo.PNG)
 
    - When creating the repository, ensure that the repository name matches exactly what you have specified in the Jenkinsfile under the `repository URL` section to avoid any issues during artifact deployment.
 
-![image info](images/nexus-create-repo.PNG)
+
