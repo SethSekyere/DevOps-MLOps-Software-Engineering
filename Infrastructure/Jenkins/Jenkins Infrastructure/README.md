@@ -73,9 +73,7 @@ Make sure to replace `<Jenkins-EC2-Public-IP>`, `<Nexus-EC2-Public-IP>`, and `<S
 This format provides a clear, structured set of instructions for accessing Jenkins, Nexus, and SonarQube in the browser with their respective ports and default credentials.
 
 
-Follow the links below to integrate sonarqube and nexus with Jenkins:
-- Nexus: https://github.com/techlearn-center/DevOps/blob/CICD/profile-project/nexus.md
-- Sonarqube:  https://github.com/techlearn-center/DevOps/blob/CICD/profile-project/sonar.md
+
 
 
 
