@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # 🔧 Ansible Inventory Guide
 
 This document explains how Ansible uses **inventory files** to identify and group remote machines for automation tasks. These files tell Ansible *what* to manage and *where* to find it. Inventories can be written manually (static) or generated dynamically from sources like cloud platforms.
